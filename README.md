@@ -1,4 +1,4 @@
-# Trading Bot Competition
+# Auction Bot Competition
 
 ## Overview
 This project simulates a multi-round bidding game where trading bots compete against each other to maximize profit. The competition is designed to challenge participants to develop effective bidding strategies in various auction scenarios.
