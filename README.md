@@ -39,7 +39,7 @@ This project simulates a multi-round bidding game where trading bots compete aga
    python Variant_2.py  # For Variation 2
    python Variant_3.py  # For Variation 3
    ```
-5. The Starter Codes for the Auction Bot can be found [here][https://github.com/asurixyz/AuctionBot) ](https://drive.google.com/drive/folders/1db-SIWq5bNb1nGuyTUacfls1iA8iwDpH?usp=drive_link]
+5. The Starter Codes for the Auction Bot can be found [here](https://drive.google.com/drive/folders/1db-SIWq5bNb1nGuyTUacfls1iA8iwDpH?usp=drive_link)
 
 ## Developing Your Bot
 - Modify the `make_bid` function in your strategy file.
