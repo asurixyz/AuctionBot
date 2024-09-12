@@ -26,11 +26,11 @@ This project simulates a multi-round bidding game where trading bots compete aga
 ## How to Use
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/trading-bot-competition.git
+   git clone https://github.com/asurixyz/AuctionBot.git
    ```
 2. Navigate to the project directory:
    ```
-   cd trading-bot-competition
+   cd AuctionBot
    ```
 3. Implement your strategy by modifying the `Template.py` file in the `Strategies` folder.
 4. Run the simulation:
