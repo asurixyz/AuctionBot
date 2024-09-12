@@ -47,16 +47,6 @@ This project simulates a multi-round bidding game where trading bots compete aga
 - Ensure your bot doesn't exceed time (1 second per round) or memory (100 MB) limits.
 - You can use any available Python library, but mention them in your report.
 
-## Submission
-- Submit your bot codes (Python files) following the naming convention: `ROLLNO_1.py`, `ROLLNO_2.py`, `ROLLNO_3.py`.
-- Include a brief report explaining your strategy.
-- Submit via the provided Google Form.
-
-## Evaluation
-- Bots will be tested against sample bots and then compete in groups of 20.
-- Multiple rounds will be conducted to minimize luck factors.
-- Evaluation focuses on strategy adaptability and robustness across different scenarios.
-
 ## Resources
 - [Introduction to Random Variables](https://www.investopedia.com/terms/r/random-variable.asp)
 - [Python Programming Basics](https://www.w3schools.com/python/python_intro.asp)
