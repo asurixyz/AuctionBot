@@ -40,6 +40,7 @@ This project simulates a multi-round bidding game where trading bots compete aga
    python Variant_3.py  # For Variation 3
    ```
 5. The Starter Codes for the Auction Bot can be found [here](https://drive.google.com/drive/folders/1db-SIWq5bNb1nGuyTUacfls1iA8iwDpH?usp=drive_link)
+6. If you're using Ubuntu 24.04, you might need to use `python3` instead of `python` to run the codes. Note that this runs only one round of the auction. Run the `multiple_auctions.py` to run multiple auctions. Note that you must not run these codes inside the Strategies Folder, but the bots must be in the Strategies folder.
 
 ## Developing Your Bot
 - Modify the `make_bid` function in your strategy file.
